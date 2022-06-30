@@ -1,2 +1,3 @@
-# wfetch
-simple fetch tool for windows written in batch
+# WFETCH
+
+#### A fetch tool for windows inspired by pfetch 
